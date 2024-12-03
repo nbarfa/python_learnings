@@ -1,0 +1,4 @@
+You must have noticed that till now we have been learning one new concept per tutorial.
+For some important concepts like loops we had to allocate two tutorials so we can grasp the concept of both loops (for and while) separately.
+But now in the case of the file, we have allocated the next five tutorials (excluding the exercise and their solutions).
+So, from this, you can take a hint that how important file handling is in programming.
